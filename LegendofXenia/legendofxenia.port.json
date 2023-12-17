@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "name": "legendofxenia.zip",
+  "items": [
+    "Legend of Xenia.sh",
+    "legendofxenia/"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Legend of Xenia",
+    "porter": [
+	  "MadShmupper"
+    ],
+    "desc": "Legend of Xenia is a retro-inspired, open-world Zelda-like with a resolution of just 64x64 pixels. Take control of a young girl who wakes up on an island...with no memories of her past or how she got there...\n +Explore the island\n + Fight lots of baddies\n + Meet new friends\n + Uncover your past",
+    "inst": "Download the windows version of the game from https://baku.itch.io/legend-of-xenia and extract the contents of the exe file (open with 7-zip) to /ports/LegendofXenia/gamedata\n The files D3DX9_43.dll and LowRezJam2016.exe are not needed.",
+    "genres": [
+      "fps"
+    ],
+    "image": "legendofxenia.screenshot.png",
+    "rtr": false,
+    "exp": false,
+    "runtime": null,
+    "reqs": []
+  }
+}
